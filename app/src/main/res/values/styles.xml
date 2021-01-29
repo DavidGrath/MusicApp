@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <!--        <item name="searchViewStyle">@style/customSearchStyleHomeAppBar</item>-->
+        <!--        <item name="colorAccent">@color/colorSecondary</item>-->
+        <item name="seekBarStyle">@style/customSeekBarStyle</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="customSeekBarStyle" parent="Widget.AppCompat.SeekBar">
+
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawermain_nowplaying"
+        android:title="Now Playing" />
+    <item
+        android:id="@+id/drawermain_recents"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:title="Recents" />
+    <item
+        android:id="@+id/drawermain_apple"
+        android:icon="@drawable/ic_apple_music_icon_blk_sm"
+        android:title="Apple" />
+    <item
+        android:id="@+id/drawermain_spotify"
+        android:title="Spotify" />
+    <item
+        android:id="@+id/drawermain_local"
+        android:icon="@drawable/ic_baseline_storage_24"
+        android:title="Local" />
+    <item
+        android:id="@+id/drawermain_playlists"
+        android:icon="@drawable/ic_baseline_queue_music_24"
+        android:title="Playlists" />
+</menu>
